@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Next.JS and Gamemaker**
 
-- 👯 I’m looking to collaborate on **Game Development**
+- 👯 I’m looking to collaborate on **Game Development and Web Development**
 
-- 🤝 I’m looking for help with **Game Development**
+- 🤝 I’m looking for help with **Game Development and Web Development**
 
 - 💬 Ask me about **.NET and C#**
 
